@@ -1,0 +1,24 @@
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Start test suite:0:int.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Test suite:0:int is successful.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: End test suite:0:int.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Start test suite:2:adds.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Test suite:2:adds is successful.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: End test suite:2:adds.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Start test suite:4:lets.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Test suite:4:lets is successful.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: End test suite:4:lets.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Start test suite:6:mul.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Test suite:6:mul is successful.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: End test suite:6:mul.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Start test suite:8:div2.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Test suite:8:div2 is successful.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: End test suite:8:div2.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Start test suite:10:null2.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Test suite:10:null2 is successful.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: End test suite:10:null2.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Start test suite:12:idk2.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Test suite:12:idk2 is successful.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: End test suite:12:idk2.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Start test suite:14:idk4.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: Test suite:14:idk4 is successful.
+2018-03-05T04:11:05+00:00 Sean's-Macbook-Pro#01 I: End test suite:14:idk4.
